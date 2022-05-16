@@ -1,7 +1,12 @@
 ### Hi there.. Nice to see you! 👋
 Welcome to my page!
 
-This is Rezi. I'm a student in Toronto, Canada. An intermediate software developer and adventure seeker. Passionate about design, develope, and building software applications. Looking forward to expand my knowledge as I learn new languages and tools.
+I'm Rezi. An intermediate software developer student and adventure seeker. I do content about on design, develop, and building software applications. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. You can check out my twitter at https://twitter.com/Rezi90127145.
 
-Thanks for visiting! :blush:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rezi)
+
+
+
+Skills: REACT / JS / HTML / CSS
+
 
