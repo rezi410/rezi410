@@ -10,8 +10,7 @@ I'm Rezi. An intermediate software developer student and adventure seeker. I do 
 * 🅰️ Angular
 
 ## ☕ Let's Connect
-[<a href="mailto: reziyemu.sulaiman@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align: top; margin:4px"></a>]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rezi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rezi6rezi/?hl=en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Rezi90127145)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UCPwho1PTR3utvNQaUJrl4DA)  
+[<a href="mailto: reziyemu.sulaiman@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align: top; margin:4px"></a>]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rezi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rezi6rezi/?hl=en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Rezi90127145)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UCPwho1PTR3utvNQaUJrl4DA)  
 
 ## Github Stats: <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rezi)
