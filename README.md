@@ -9,6 +9,8 @@ I'm Rezi. An intermediate software developer student and adventure seeker. I do 
 * ⚛️ React
 * 🅰️ Angular
 
+## ☕ Let's Connect
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png' alt='github' height='40'>]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rezi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rezi6rezi/?hl=en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Rezi90127145)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/channel/UCPwho1PTR3utvNQaUJrl4DA)  
 
