@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/rezi410/rezi410/blob/main/profile_image.jpeg)
 
 ## Hi there 👋, nice to see you here...
-I'm Rezi. An intermediate software developer student and adventure seeker. I do content about design, development, and building software applications. I really enjoy learning languages and frameworks like React and Angular, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+I'm Rezi. An intermediate software developer student and adventure seeker. I do content about design, development, and building software applications. I really enjoy learning languages and frameworks like React and Angular, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. Outside of school, I like reading and travelling. Feel free to reach out to me an email at reziyemu.sulaiman@gmail.com!
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS, TS, SQL
