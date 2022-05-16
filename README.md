@@ -1,5 +1,5 @@
 ### Hi there.. Nice to see you! 👋
-Welcome to my page!
+<h1> Welcome to my page! </h1>
 
 I'm Rezi. An intermediate software developer student and adventure seeker. I do content about on design, develop, and building software applications. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. You can check out my twitter at https://twitter.com/Rezi90127145.
 
