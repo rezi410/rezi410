@@ -1,6 +1,6 @@
 ### Hi there 👋, Nice to see you here!
 #### Design and Development
-![Design and Development](https://pbs.twimg.com/profile_banners/1526248758173908994/1652730038/1080x360)
+![Design and Development](https://github.com/rezi410/rezi410/blob/main/LinkedIn%20Cover%201584x396%20px%20(3).jpeg)
 
 I'm Rezi. An intermediate software developer student and adventure seeker. I do content about design, development, and building software applications. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
