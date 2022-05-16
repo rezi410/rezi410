@@ -17,5 +17,5 @@ I'm Rezi. An intermediate software developer student and adventure seeker. I do 
 </details>
 <details>
   <summary> ⚡ Most Used Languages</summary>
-  <img align="left" alt="Rezi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezi410" />
+<img align="left" alt="Rezi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezi410" />
 </details>
