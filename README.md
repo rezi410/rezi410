@@ -3,15 +3,13 @@
 # Hi there 👋, nice to see you here...
 I'm Rezi. An intermediate software developer student and adventure seeker. I do content about design, development, and building software applications. I really enjoy learning languages and frameworks like React and Angular, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. My personal hobbies are listenning to music, reading books, and travelling. Currently, I'm exploring new technologies and programming languages to further solidfy my programming skills.
 
-<!--
+
 ## 🦾 Skills and Experience
 * 💻 HTML, CSS, JS, TS, SQL
 * 🎮 C, C++
 * ⚛️ React
 * 🅰️ Angular
 * 🛠️ Node.js, Bootstrap, Jquery, Git, Github
--->
-**languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
