@@ -37,6 +37,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [![Instagram Badge](https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rezi6rezi/?hl=en)
 [![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/rezi410)
 
+---
 <img align="center" alt="Rezi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rezi410&show_icons=true&theme=gotham" />
 
 <img align="center" alt="Rezi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezi&show_icons=true&theme=gotham" />
+
+---
