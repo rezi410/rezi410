@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ## ✉️ Where To Find Me
 [![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/rezi410)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:reziyemu.sulaiman@gmail.com)](mailto:reziyemu.sulaiman@gmail.com)
-
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rezi6rezi/?hl=en)
 
 
 <img align="center" alt="Rezi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rezi410&show_icons=true&theme=gotham" />
