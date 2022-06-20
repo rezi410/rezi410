@@ -1,6 +1,8 @@
 
 [![Design and Development](https://github.com/rezi410/rezi410/blob/main/profile_image.jpeg)](https://www.youtube.com/watch?v=L9-0Cz0woFg)
 
+<a href="https://www.youtube.com/watch?v=L9-0Cz0woFg" target="_blank"><img src="https://i.ytimg.com/vi/L9-0Cz0woFg/mqdefault.jpg" 
+alt="Watch the video!" width="240" height="180" border="10" /></a>
 
 # Hi there 👋, nice to see you here...
 I'm Rezi. An intermediate software developer student and adventure seeker. I do content about design, development, and building software applications. I really enjoy learning languages and frameworks like React and Angular, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general. My personal hobbies are playing piano, reading books, and travelling. Currently, I'm exploring new technologies and programming languages to further solidfy my programming skills.
