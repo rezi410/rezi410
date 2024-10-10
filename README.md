@@ -11,6 +11,6 @@ This is Claire. I’m a passionate software developer and avid adventure seeker.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:claire.rsulaiman@gmail.com)](mailto:claire.rsulaiman@gmail.com)
 
 ---
-<img align="center" alt="Claire's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rezi410&show_icons=true&theme=gotham" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rezi410&show_icons=true&theme=gotham" />
 
-<img align="center" alt="Claire's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezi&show_icons=true&theme=gotham" />
+<img align="center" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezi&show_icons=true&theme=gotham" />
