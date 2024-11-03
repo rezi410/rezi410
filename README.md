@@ -2,10 +2,9 @@
 This is Claire. I’m a passionate software developer and avid adventure seeker. I create content focused on software development, particularly in building dynamic web and mobile applications. I thrive on learning new languages, frameworks, and tools that help push the boundaries of my expertise. Outside of work, I enjoy diving into books and exploring new places. Currently, I’m immersing myself in cutting-edge technologies and programming languages to strengthen my skill set and continue evolving as a developer.
 
 ## 🦾 Skills and Experience
-* **Language:** PHP, JavaScript, Python, Java, C, C++, HTML5, CSS, React, Angular, Django, XML, Typescript, Ajax, Nodejs, jQuery, Bootstrap, Postman.
-* **Databases:** SQL, MySQL, PostgreSQL, Microsoft SQL, NoSQL, MongoDB. 
-* **Software:** AWS S3, AWS EC2, AWS RDS, Heroku, Netlify, Jira, Git, GitHub, Azure, Docker, Adobe, Figma.
-* **Operating System/ Microsoft Office:** Visual Studio Code, Visual Studio, Eclipse, Android Studio, Sublime, Brackets.
+* **Language:** JavaScript, Python, Java, C, C++, PHP, HTML5, CSS, SCSS, React, Angular, Django, XML, Typescript, Ajax, Node.js, jQuery, REST, Bootstrap, Postman, JSON, YAML.
+* **Databases:** SQL, MySQL, PostgreSQL, MongoDB, DynamoDB. 
+* **Software:** AWS (S3, EC2), Heroku, Netlify, Cyclic, Jira, Git, GitHub, Azure, Docker, WordPress, SharePoint, Confluence.
 
 ## ✉️ Where To Find Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:claire.rsulaiman@gmail.com)](mailto:claire.rsulaiman@gmail.com)
